@@ -1,0 +1,74 @@
+.bod {
+    margin-top: 3cm;
+    margin-bottom: 5cm;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+
+
+
+.form-control1 {
+    height: 1.1cm;
+    width: 13cm;
+    font-size:large;
+    background-color: #F5F6F7;
+    border-radius: 0.2cm;
+    border-width: thin;
+    padding-left: 0.3cm;
+}
+
+.form-control2 {
+    height: 1.1cm;
+    width: 13cm;
+    margin-bottom: 0.3cm;
+    margin-top: 0.18cm;
+    font-size: large;
+    background-color: #F5F6F7;
+    border-radius: 0.2cm;
+    border-width: thin;
+    padding-left: 0.3cm;
+    
+}
+
+.con{
+     height: 1.1cm;
+     width: 13cm;
+     margin-top: 0.1cm;
+    font-size: x-large;
+    background-color: #1A77F2;
+    border-radius: 0.2cm;
+    font-weight: bold;
+
+}
+
+
+.for {
+    margin-top: 0.5cm;
+    color: #1A77F2;
+    margin-bottom: 0.5cm;
+    margin-top: 1cm;
+    font-size: medium;
+}
+
+.cre {
+    color: black;
+    font-size: large;
+    margin-bottom: 2cm;
+    margin-top: 0.5cm;
+    background-color: #FFFFFF;
+    border-radius: 0.1cm;
+    border-width: thin;
+    width: 7cm;
+    height: 0.9cm;
+
+}
+
+.mad {
+    text-align: center;
+    margin-top: 0.5cm;
+}
+
+.img {
+    margin-bottom: 1cm;
+}
